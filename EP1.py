@@ -1,7 +1,7 @@
 #Autora: Carine Guzzi Santos 
 #NUSP: 12556100
-#Autora: Larissa 
-#NUSP
+#Autora: Larissa de Souza Fontes
+#NUSP 11808209
 
 """ 1. Resolva a equação, considerando um deslocamento inicial nulo 
 e o sistema partindo do repouso. Use: """
